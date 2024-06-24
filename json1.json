@@ -1,0 +1,8 @@
+{
+  "ConnectionStrings": {
+    "NoTalentDB": "Server=your_server_name;Database=NoTalentDB;Trusted_Connection=True;"
+  }
+}
+{
+
+}

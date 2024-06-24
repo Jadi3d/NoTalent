@@ -1,0 +1,8 @@
+﻿<Window x:Class="NoTalent.BookingRecordsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Booking Records" Height="300" Width="400">
+    <Grid>
+        <TextBlock Text="Booking Records Window" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="24"/>
+    </Grid>
+</Window>
